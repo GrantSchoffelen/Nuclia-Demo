@@ -10,7 +10,7 @@ You need to have Node.js (version 16.9.0 or above) and npm installed on your mac
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/GrantSchoffelen/Nuclia-Demo.git
     ```
 
 2. Navigate into the project directory:
@@ -42,4 +42,4 @@ This project contains two scripts:
 - `uploadWikiLinksToNuclia.ts`: This script ingests a list of Wikipedia URLs, triggers a summarize call for each URL, and stores the summary inside the resource at Nuclia. Run it with the following command:
   ```
   ts-node uploadWikiLinksToNuclia.ts
-  ```# Nuclia
+  ```
