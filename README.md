@@ -1,4 +1,4 @@
-# Project Title
+# Nuclia Demo
 
 This project demonstrates how to upload PDF files to Nuclia and create a pipeline to ingest and summarize Wikipedia URLs.
 
